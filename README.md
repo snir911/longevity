@@ -1,3 +1,4 @@
+<pre><code>
 Usage: ./kata_longevity.sh <test-type> [arg_list] [options]
   Test Types:
     all               Run all tests in sequence, with default values.
@@ -14,3 +15,4 @@ Usage: ./kata_longevity.sh <test-type> [arg_list] [options]
     -r, --rouds       Number of rounds per test
     -u, --url         Valid domain for testing webserver response
     -h, --help        Print this help message
+</pre></code>
